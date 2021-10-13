@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{47651A18-C857-449A-80C7-CCB4C4D6A28B}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WEB_953504_Tomashchik/wwwroot/lib/package.json">
+    <Files>
+      <File FileName="WEB_953504_Tomashchik/Program.cs" Line="16" Column="1" />
+      <File FileName="WEB_953504_Tomashchik/wwwroot/css/site.css" />
+      <File FileName="WEB_953504_Tomashchik/Startup.cs" />
+      <File FileName="WEB_953504_Tomashchik/Views/Shared/_Layout.cshtml" />
+      <File FileName="WEB_953504_Tomashchik/Views/_ViewStart.cshtml" />
+      <File FileName="WEB_953504_Tomashchik/Views/_ViewImports.cshtml" />
+      <File FileName="WEB_953504_Tomashchik/Views/Shared/Error.cshtml" />
+      <File FileName="WEB_953504_Tomashchik/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="WEB_953504_Tomashchik/Views/Home/Index.cshtml" />
+      <File FileName="WEB_953504_Tomashchik/Views/Home/Privacy.cshtml" />
+      <File FileName="WEB_953504_Tomashchik/wwwroot/main.html" Line="137" Column="25" />
+      <File FileName="WEB_953504_Tomashchik/wwwroot/lib/package.json" Line="6" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WEB_953504_Tomashchik" expanded="True">
+            <Node name="WEB_953504_Tomashchik" expanded="True">
+              <Node name="wwwroot" expanded="True" selected="True">
+                <Node name="Images" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WEB__953504__Tomashchik PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
